@@ -7,6 +7,7 @@ import { FunctionUrlAuthType } from 'aws-cdk-lib/aws-lambda'
 import { Construct } from 'constructs';
 
 // TODO: do not change the permission for my lambdas
+// TODO: second todo
 
 export class AnimeScraperStack extends cdk.Stack {
   constructor(scope: Construct, id: string, props?: cdk.StackProps) {
