@@ -8,7 +8,7 @@ import { Construct } from 'constructs';
 
 // TODO: do really change the permission for my lambdas
 // TODO: added another todo
-// TODO: second todo
+// TODO: second rastarstaaaaaaaaaaaaaaa
 
 export class AnimeScraperStack extends cdk.Stack {
   constructor(scope: Construct, id: string, props?: cdk.StackProps) {
